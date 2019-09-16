@@ -1,0 +1,2 @@
+# Image2Voice
+I am working on building an end to end Application for my Capstone Project. It is an application that recognizes text from images or documents and gives you an audio as output. The aim of the project is to develop an application using OCR and text to speech Algorithms to enable the end users to hear the contents of text Images/ Documents instead of reading through them. This could be helpful for blind people to actually know the text. Further, the application would also be made for different languages
